@@ -1,5 +1,6 @@
 Test ma na celu sprawdzenie opcji zmiany w menu.
 Reszta zaproponowanych testów:
+                
                 1. Displaying Menu Items
 
         Description: Ensure the list of menu items loads correctly when entering the Menu tab.
